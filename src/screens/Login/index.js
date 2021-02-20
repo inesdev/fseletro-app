@@ -1,7 +1,6 @@
 import React from 'react';
 import { View, Text, TextInput, TouchableOpacity, Alert, Image } from 'react-native';
 import Logo from '../../../assets/logofull.png';
-// import Fundo from '../../../assets/fundo.jpg';
 
 import styles from './styles';
 

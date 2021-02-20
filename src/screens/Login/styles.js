@@ -12,11 +12,14 @@ const styles = StyleSheet.create({
 titulo: {
     color: "#004AAD",
     fontSize: 32
+
 },
+
 inputs: {
     width: "100%",
     padding: 8
 },
+
 input: {
     backgroundColor: "#F2F2F2",
     width: "100%",
@@ -31,6 +34,7 @@ btn:{
     padding: 8,
     borderRadius: 4
 },
+
 texto:{
     fontSize: 18,
     color: "#45F8FF",
